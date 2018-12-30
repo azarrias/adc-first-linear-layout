@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstLinearLayout</string>
+    <string name="cbText">Save automatically</string>
 </resources>
